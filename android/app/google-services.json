@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241792834322",
+    "project_id": "sharedidea-fac54",
+    "storage_bucket": "sharedidea-fac54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241792834322:android:7ff2043510d94ffade31cb",
+        "android_client_info": {
+          "package_name": "com.example.sharedidea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241792834322-13p70hrmcpo92dmnbpbqf9lsgiri3ll5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5gMHTu0Elf2fGfzWQm0gj4wZMQP3_DmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241792834322-13p70hrmcpo92dmnbpbqf9lsgiri3ll5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
